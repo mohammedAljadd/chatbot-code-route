@@ -51,7 +51,7 @@ default_system_msg = """**Expert Sécurité Routière Strict**
 - Pas d'interprétation libre des lois"""
 
 # File to load
-pdf_path = "nosia.pdf"
+pdf_path = "code_route.pdf"
 
 # Session state setup
 if 'system_msg' not in st.session_state:
